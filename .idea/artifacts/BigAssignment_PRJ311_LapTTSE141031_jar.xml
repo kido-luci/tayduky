@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="BigAssignment_PRJ311_LapTTSE141031:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BigAssignment_PRJ311_LapTTSE141031_jar</output-path>
+    <root id="root">
+      <element id="archive" name="BigAssignment_PRJ311_LapTTSE141031.jar">
+        <element id="module-output" name="BigAssignment_PRJ311_LapTTSE141031" />
+      </element>
+      <element id="library" level="project" name="sqljdbc4" />
+    </root>
+  </artifact>
+</component>
